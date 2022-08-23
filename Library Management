@@ -1,0 +1,23 @@
+1. Introduction 
+   1.1 Purpose 
+   The purpose of the software is to check the books present in the library and borrow
+2. General description
+   2.1 User manual
+   It has the working of manual for the user
+3. Fundamental requirement 
+   3.1 Description
+   The User needs to create an account using his gmail account if he is using the website for first time.
+   In case the user has the account then he has to login using his username and password
+   3.2 Technical issues
+   The technical issues like server busy may occur due to the number of user are more in number.
+4. Interface requirement 
+   4.1 GUI - A well defined good graphical interface is used for the purpose of making the user easy to use.
+5. Performance requirement 
+6. Resign constraint 
+7. Other non functional attributes 
+   7.1 Security - The security is maintained well and safe. It has provided the safe payment method for the user. 
+   7.2 Availability 
+   7.3 Maintainability
+   7.4 Reusability
+8. Operational scenarios 
+9. Preliminary schedule
